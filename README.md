@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Draw a point](https://)
+- Live Site URL: [Draw a point](https://themattfire.github.io/Exercise_draw-a-point/)
 
 ## My process
 
