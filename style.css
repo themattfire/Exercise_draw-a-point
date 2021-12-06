@@ -19,6 +19,16 @@ html {
   height: 100vh;
 }
 
+.text_title {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.text_paragraph {
+  font-size: 1.8rem;
+  text-align: center;
+}
+
 .canva {
   background-color: white;
   color: white;
