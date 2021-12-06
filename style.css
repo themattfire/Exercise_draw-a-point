@@ -24,8 +24,12 @@ html {
   color: white;
 }
 
+.buttons {
+  display: flex;
+  gap: 10px;
+}
+
 .btn {
-  background-color: #95ca3e;
   border-radius: 15px;
   border: 0 transparent;
   color: white;
@@ -34,7 +38,22 @@ html {
   padding: 15px;
 }
 
-.btn:hover {
+.btn__draw {
+  background-color: #95ca3e;
+
+}
+
+.btn__draw:hover {
   background-color: #76a727;
+  cursor: pointer;
+}
+
+.btn__erase {
+  background-color: #ca3e3e;
+
+}
+
+.btn__erase:hover {
+  background-color: #a82008;
   cursor: pointer;
 }
