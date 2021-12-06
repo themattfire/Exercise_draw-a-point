@@ -57,3 +57,21 @@ html {
   background-color: #a82008;
   cursor: pointer;
 }
+
+.success {
+  color: #95ca3e;
+  font-weight: 700;
+  border: 1px solid #95ca3e;
+  border-radius: 15px;
+  padding: 25px;
+  font-size: 1.6rem;
+}
+
+.alert {
+  color: #ca3e3e;
+  font-weight: 700;
+  border: 1px solid #ca3e3e;
+  border-radius: 15px;
+  padding: 25px;
+  font-size: 1.6rem;
+}
