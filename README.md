@@ -1,6 +1,6 @@
 # Draw a point
 
-JavaScript challenge. Generate a random point on the canvas and find out if it's inside the circle or not
+JavaScript challenge. Generate a random point on the canvas and find out wether it's inside the circle
 
 ## Table of contents
 
